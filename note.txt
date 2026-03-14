@@ -1,0 +1,8 @@
+Build raw server 
+-- npm init -y
+-- npm install -D typescript ts-node @types/node
+-- folder = src > folder=config > server.ts 
+-- npx tsc --init 
+--.env
+--.gitignore > node_modules - .env*
+--npm i dotenv
